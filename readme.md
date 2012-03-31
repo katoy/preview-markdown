@@ -9,7 +9,7 @@ $ coffee preview-md.coffee readme.md
 
 Acccess http://localhost:3000.<br/>
 Edit readme.md, <br/>
-After eache saved, refleshed borwser. <br/>
+After save, refleshed borwser. <br/>
 
 Usage
 ======
