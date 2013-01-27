@@ -1,3 +1,5 @@
+a
+==
 
 Install and run
 =================
@@ -6,7 +8,7 @@ Down load package.json, preview-md.coffee and readme.md.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ { .bash .numberLines}
 $ npm install
-$ coffee preview-md.coffee readme.md
+$ coffee preview-md.coffee readme.md 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Acccess http://localhost:3000.<br/>
