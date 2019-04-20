@@ -4,6 +4,8 @@ a
 Install and run
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/katoy/preview-markdown.svg)](https://greenkeeper.io/)
+
 Down load package.json, preview-md.coffee and readme.md. 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ { .bash .numberLines}
